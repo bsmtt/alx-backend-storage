@@ -1,1 +1,2 @@
-db.school.count()
+// count
+db.school.count();
